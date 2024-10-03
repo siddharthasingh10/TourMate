@@ -1,0 +1,6 @@
+node_modules/
+config.env/
+notes/
+public/
+dev-data/img/
+dev-data/templates

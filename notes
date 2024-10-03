@@ -1,0 +1,6 @@
+
+// ASYNC ERROR HANDLING
+// we use async error handling to remove the try and catch block 
+
+// now what we do is make a function and as a parameter we pass all the function that was using try and catch now
+// see that function was written asynchonously so if there is error then promise is rejected in async fn so we use    .then on them
